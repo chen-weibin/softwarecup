@@ -1,42 +1,58 @@
-# softwarecup
-软件杯
+# 中国软件杯——遥感图像解译
 
-### 前端
 
-# app
 
-## Project setup
+## 前端
+
+### 项目依赖安装
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发编译和热重载（项目启动）
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产编译
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 自定义配置
+
+请参阅[配置参考](https://cli.vuejs.org/config/)。
+
+
+
+## 后端
+
+### 项目依赖安装
 
 ```
-npm run lint
+npm install requirement.txt
 ```
 
-### Customize configuration
+### 文件修改与引入
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+1、在constants.py中写入自己的数据库地址和账号密码，sqlalchemy可以自动生成对应的数据库表。
+
+2、由与Github上传文件大小的限制，无法上传静态模型文件和PaddleRS，这两个文件需要自己下载后放置在app.py同级目录下。这两个文件放置在百度网盘上，可自行下载。
+
+网盘链接：https://pan.baidu.com/s/1ajJruSQw8x9WD7x3B6tfcg?pwd=6666
+提取码：6666
+```
+
+### 项目运行
+
+```
+python run app.py
+```
 
 
-### 后端
- # flaskProject
-    后端中的paddleRS文件需要自己到软件杯相应提供源码的位置获取
-    静态文件下载位置
     
    
