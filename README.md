@@ -1,3 +1,4 @@
+# 中国软件杯——遥感图像解译
 
 
 
@@ -24,6 +25,8 @@ npm run build
 ### 自定义配置
 
 请参阅[配置参考](https://cli.vuejs.org/config/)。
+
+
 
 
 
@@ -54,6 +57,8 @@ python run app.py
 
 
 
+
+
 ## 项目效果预览
 
 ### 登录界面
@@ -61,6 +66,15 @@ python run app.py
   <figure class="third">     <img src="https://pic.imgdb.cn/item/62c822c9f54cd3f93752b571.png">    </figure> 
 
 
+### 主界面及主题
 
-    
-   
+  <figure class="third">     <img src="https://pic.imgdb.cn/item/62c8237cf54cd3f93753e870.png">     <img src="https://pic.imgdb.cn/item/62c823fcf54cd3f93754b1e1.png">     </figure>  
+
+
+### 功能界面
+
+  <figure class="third">     <img src="https://pic.imgdb.cn/item/62c824bff54cd3f93755ebc3.png">     <img src="https://pic.imgdb.cn/item/62c82532f54cd3f93756a658.png">     <img src="https://pic.imgdb.cn/item/62c82548f54cd3f93756cc8a.png"> 
+<img src="https://pic.imgdb.cn/item/62c825a2f54cd3f937575e10.png"> 
+<img src="https://pic.imgdb.cn/item/62c825e5f54cd3f93757d005.png"> 
+<img src="https://pic.imgdb.cn/item/62c825f5f54cd3f93757e947.png"> 
+</figure>  
